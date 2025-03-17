@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sumukesh Reddy</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h4 align="center">BTech CSE student at Indian Institute of Information Technology Sri City</h4>
 
 <p align="center">
-  <a href="https://github.com/Sumukesh-Reddy">
-    <img src="https://komarev.com/ghpvc/?username=sumukesh-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  <a href="https://www.linkedin.com/in/sumukesh-reddy-mopuram/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
+  
   <a href="https://twitter.com/sumukeshreddy">
     <img src="https://img.shields.io/twitter/follow/sumukeshreddy?style=social" alt="Twitter Follow" />
   </a>
