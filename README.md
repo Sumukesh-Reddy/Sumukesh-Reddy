@@ -2,11 +2,13 @@
 <h4 align="center">BTech CSE student at Indian Institute of Information Technology Sri City</h4>
 
 <p align="center">
-  
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Animation" width="400"/>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sumukesh-reddy-mopuram/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  
   <a href="https://twitter.com/sumukeshreddy">
     <img src="https://img.shields.io/twitter/follow/sumukeshreddy?style=social" alt="Twitter Follow" />
   </a>
@@ -90,7 +92,7 @@
   <a href="https://twitter.com/sumukeshreddy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/sumukesh-reddy" target="blank">
+  <a href="https://www.linkedin.com/in/sumukesh-reddy-mopuram/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://www.codechef.com/users/sumukesh" target="blank">
