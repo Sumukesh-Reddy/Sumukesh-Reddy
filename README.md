@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **[ShelterSeek](https://github.com/Sumukesh-Reddy/ShelterSeek_node)**, a Node.js-based project.
 - 🌱 I’m currently learning **Web Development** and exploring **React.js** and **Node.js**.
-- 💬 Ask me about **JavaScript, HTML, CSS, and Python**.
+- 💬 Ask me about **JavaScript, HTML, CSS, Java, DSA and Python**.
 - 📫 How to reach me: **sumukeshmopuram1@gmail.com**
 - ⚡ Fun fact: I love solving problems on **LeetCode** and **Codeforces**.
 
