@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sumukesh Reddy</h1>Add commentMore actions
+<h1 align="center">Hi 👋, I'm Sumukesh Reddy</h1>
 <h4 align="center">BTech CSE student at Indian Institute of Information Technology Sri City</h4>
 
 <p align="center">
