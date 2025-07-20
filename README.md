@@ -13,9 +13,6 @@
   <a href="https://twitter.com/sumukeshreddy">
     <img src="https://img.shields.io/twitter/follow/sumukeshreddy?style=social" alt="Twitter Follow" />
   </a>
-  <a href="https://github.com/Sumukesh-Reddy">
-    <img src="https://img.shields.io/github/followers/Sumukesh-Reddy?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
 </p>
 
 ---
