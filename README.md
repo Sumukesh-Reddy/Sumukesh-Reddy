@@ -82,13 +82,10 @@ A full-stack accommodation and traveler-host management platform with:
 ## 🏆 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/Sumukesh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
   
-  <a href="https://www.codechef.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef" />
-  </a>
 </p>
 
 
