@@ -30,17 +30,17 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
 </p>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,django" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
 ### 🗄️ Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,figma,vscode,docker" />
 </p>
 
 ### 🤖 Libraries & Frameworks
